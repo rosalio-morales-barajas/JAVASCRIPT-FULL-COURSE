@@ -1,0 +1,1 @@
+//Los operadores relacionales comparan dos valores y devuelven un resultado
